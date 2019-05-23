@@ -1,0 +1,15 @@
+<connectionStrings>
+    <add name="sqlpracticeConn" connectionString="integrated security=true; initial catalog=sqlpractice; data source=DESKTOP-I7MI5IK"/>
+  </connectionStrings>
+
+
+ <add name="GIRISHconn" connectionString="user id=sa;password=P@ssw0rd;data source=DESKTOP-I7MI5IK;initial catalog=GIRISH" providerName="System.Data.Sqlclient"/>
+  </connectionStrings>
+
+ <connectionStrings>
+    <add name="GIRISHconn" connectionString="user id=sa;password=P@ssw0rd; data source=DESKTOP-I7MI5IK;initial catalog=GIRISH;" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+
+
+
+https://github.com/Giri-capgemini/Dotnet
